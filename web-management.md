@@ -55,5 +55,14 @@
 
 ---
 
+## 🕐 Jam Kerja & Benefit
+
+- **Jam Kerja**: Senin – Sabtu, pukul **09.00 – 18.00**
+- **Mess tersedia** (bagi karyawan luar kota)
+- **Bonus project** berdasarkan performa dan kontribusi
+- **Potensi berkembang** sangat terbuka, karena kami bergerak di bidang **SEO Agency** yang terus tumbuh dan menangani berbagai proyek nasional maupun internasional
+
+---
+
 > 📌 *Catatan: Paham struktur dan keamanan jaringan PBN adalah nilai plus besar. Familiar dengan keamanan server juga menjadi keunggulan.*
 
