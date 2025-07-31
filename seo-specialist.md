@@ -43,7 +43,6 @@ Fokus pada aspek teknis yang mendukung performa SEO dari sisi struktur website d
 - **Google Search Console**, **Google Analytics**
 - **Ahrefs**, **Ubersuggest**, atau **SEMrush**
 - **PageSpeed Insights**, **Lighthouse**, **GTmetrix**
-- **Screaming Frog** (jika diperlukan untuk audit lokal)
 - **ChatGPT** untuk brainstorming konten, meta, dan analisis cepat
 - Spreadsheet (Google Sheets, Excel) untuk tracking keyword & backlink
 
